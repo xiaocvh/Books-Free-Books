@@ -12,7 +12,7 @@ fork 已有项目 , 精减出自己需要的目录
 - [五、数学理论](#七数学理论)
 
 
-## 系统管理
+## 一 、系统管理
 
 1. [Linux 命令行](http://linuxcommand.org/tlcl.php)（The Linux Command Line）, [下载](http://sourceforge.net/projects/linuxcommand/files/TLCL/13.07/TLCL-13.07.pdf/download)，[中译](http://billie66.github.io/TLCL/index.html)
 1. [学习命令行](https://hellowebbooks.com/learn-command-line/)
@@ -33,7 +33,7 @@ fork 已有项目 , 精减出自己需要的目录
 1. [开源应用程序的体系结构](http://aosabook.org/en/)
 1. [MacOS 的安全和隐私指南](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)（中文）
 
-## 编程语言
+## 二、编程语言
 
 ###  C，C++
 
@@ -72,7 +72,7 @@ fork 已有项目 , 精减出自己需要的目录
 1. [解决算法和数据结构问题（Python 版）](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)（Problem Solving with Algorithms and Data Structures）
 
 
-## 人工智能
+## 三、人工智能
 
 1. [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning)，by 吴恩达
 1. [计算与推断：数据科学基础](https://ds8.gitbooks.io/textbook/content/)
@@ -99,7 +99,7 @@ fork 已有项目 , 精减出自己需要的目录
 1. [面向程序员的深度学习](https://github.com/fastai/fastbook)（Practical Deep Learning for Coders）（[官网](https://course.fast.ai/)）
 1. [从头学习机器学习](https://dafriedman97.github.io/mlbook/content/introduction.html)（Machine Learning from Scratch）
 
-## 数学理论
+## 四、数学理论
 
 ###  微积分
 
@@ -129,7 +129,7 @@ fork 已有项目 , 精减出自己需要的目录
 1. [交互式线性代数教程](https://textbooks.math.gatech.edu/ila/)
 
 
-## 其他
+## 五、其他
 
 1. [Google 面试自学手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)（中文）
 1. [技术面试手册](https://yangshun.github.io/tech-interview-handbook/)
